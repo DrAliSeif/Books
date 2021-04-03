@@ -1,6 +1,6 @@
 
-## An Introduction to Modeling Neuronal Dynamics
-### Christoph Börgers
+## An Introductory Course in Computational Neuroscience
+### Paul Miller
 
 
  <p align="center">
