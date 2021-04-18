@@ -1,6 +1,6 @@
 
-## An Introductory Course in Computational Neuroscience
-### Paul Miller
+## NONLINEAR DYNAMICS AND CHAOS
+### Steven H. Strogatz
 
 
  <p align="center">
